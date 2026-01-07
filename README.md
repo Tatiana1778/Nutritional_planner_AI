@@ -1,6 +1,6 @@
 **Overview**: 
 This project focuses on the design and evaluation of a nutrition-aware food tracking and recommendation system using data science and machine learning techniques. 
-The work combines primary literature research, dataset construction, machine learning modeling, and user testing to explore how nutritional data and user health attributes can support informed dietary decisions.
+The work combines primary literature research, dataset construction, machine learning modeling, and user testing to explore how nutritional data and user health attributes can support informed dietary decisions. Additionally, it uses controlled randomness to generate personalised food recommendations with respect to dietary restrictions and allergies.
 
 **Machine Learning Models**: 
 The following algorithms were implemented and evaluated:
