@@ -4,6 +4,7 @@ The work combines primary literature research, dataset construction, machine lea
 
 **Machine Learning Models**: 
 The following algorithms were implemented and evaluated:
+
 Gaussian Naive Bayes Classifier - 
   Used for classification tasks involving categorical health indicators
 
