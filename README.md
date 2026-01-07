@@ -12,6 +12,7 @@ Linear Regression -
   Applied to model relationships between BMI and calories consumed on daily basis.
   
 **Usage of datasets**: 
+
 Food nutrition dataset:
   300 food samples, organized into categories and subcategories
   Dataset base sourced from multiple public datasets on Kaggle
