@@ -6,11 +6,11 @@ The work combines primary literature research, dataset construction, machine lea
 The following algorithms were implemented and evaluated:
 
 Gaussian Naive Bayes Classifier - 
-  Used for classification tasks involving categorical health indicators
+  Used for classification tasks
 
 Linear Regression - 
-  Applied to model relationships between user characteristics and calorie intake
-
+  Applied to model relationships between BMI and calories consumed on daily basis.
+  
 **Usage of datasets**: 
 Food nutrition dataset:
   300 food samples, organized into categories and subcategories
